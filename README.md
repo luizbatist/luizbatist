@@ -1,4 +1,4 @@
-<!-- BANNER (simples e bonito) -->
+<!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Luiz%20Batist&fontAlignY=35&desc=Ci%C3%AAncia%20de%20Dados%20%7C%20An%C3%A1lise%20de%20Dados%20%7C%20Analytics%20Engineering&descAlignY=60" />
 </p>
@@ -27,19 +27,6 @@ No momento, estou aprofundando **modelagem de dados** e fundamentos de **Analyti
 
 ---
 
-## Números do GitHub (dinâmico)
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luizbatist&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbatist&layout=compact" />
-</p>
-
-<!-- opcional: sequência de commits -->
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=luizbatist" />
-</p>
-
----
-
 ## Projetos em destaque
 
 🔎 **Análise de Inadimplência (EDA)**  
@@ -54,5 +41,5 @@ Repositório de estudos práticos em Python, Pandas, SQL e fundamentos de Data S
 ---
 
 ## Contato
-- LinkedIn: (coloque seu link)
+- LinkedIn: https://www.linkedin.com/in/luiz-batista-388016302/
 - GitHub: https://github.com/luizbatist
