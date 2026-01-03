@@ -34,9 +34,14 @@ Análise exploratória de dados de clientes com foco em identificar padrões ass
 Envolve limpeza de dados, criação de métricas, visualizações e interpretação dos resultados.  
 👉 https://github.com/luizbatist/eda_inadimplencia
 
-📚 **Estudos em Ciência de Dados**  
-Repositório de estudos práticos em Python, Pandas, SQL e fundamentos de Data Science, desenvolvidos ao longo da graduação e da formação profissional.  
+📚 **Estudos em Python**  
+Repositório de estudos práticos em Python, Pandas  
 👉 https://github.com/luizbatist/estudo-ciencia-de-dados
+
+📊 **Estudos em SQL (Análise de Dados)**  
+Repositório com exercícios práticos de SQL organizados por nível de complexidade, seguindo um plano de estudos focado na preparação para a primeira vaga em dados.  
+Aborda consultas básicas, agregações, joins, lógica de negócio e SQL analítico aplicado a cenários reais.  
+👉 https://github.com/luizbatist/sql-exercises
 
 ---
 
