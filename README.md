@@ -41,7 +41,7 @@ Repositório de estudos práticos em Python, Pandas
 📊 **Estudos em SQL (Análise de Dados)**  
 Repositório com exercícios práticos de SQL organizados por nível de complexidade, seguindo um plano de estudos focado na preparação para a primeira vaga em dados.  
 Aborda consultas básicas, agregações, joins, lógica de negócio e SQL analítico aplicado a cenários reais.  
-👉 https://github.com/luizbatist/sql-exercises
+👉 https://github.com/luizbatist/sql_exercises
 
 ---
 
