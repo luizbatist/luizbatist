@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Luiz%20Batist&fontAlignY=35&desc=Ci%C3%AAncia%20de%20Dados%20%7C%20An%C3%A1lise%20de%20Dados%20%7C%20Analytics%20Engineering&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Luiz%20Batista&fontAlignY=35&desc=Ci%C3%AAncia%20de%20Dados%20%7C%20An%C3%A1lise%20de%20Dados%20%7C%20Analytics%20Engineering&descAlignY=60" />
 </p>
 
 <!-- TEXTO ANIMADO -->
