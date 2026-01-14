@@ -37,7 +37,7 @@ Envolve limpeza de dados, criação de métricas, visualizações e interpretaç
 📊 Business Intelligence – Adventure Works Internet Sales
 Projeto de BI com foco na integração entre SQL Server e Excel, criando uma view única para análise de vendas da base Adventure Works.
 Inclui modelagem dimensional, consolidação de dados e geração de indicadores de negócio com insights claros.
-👉 https://github.com/luizbatist/adventure-works-internet-sales-bi](https://github.com/luizbatist/sql-server-excel-sales-dashboard
+👉 https://github.com/luizbatist/sql-server-excel-sales-dashboard
 
 ---
 
