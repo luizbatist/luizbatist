@@ -34,14 +34,10 @@ Análise exploratória de dados de clientes com foco em identificar padrões ass
 Envolve limpeza de dados, criação de métricas, visualizações e interpretação dos resultados.  
 👉 https://github.com/luizbatist/eda_inadimplencia
 
-📚 **Estudos em Python**  
-Repositório de estudos práticos em Python, Pandas  
-👉 https://github.com/luizbatist/estudo-ciencia-de-dados
-
-📊 **Estudos em SQL (Análise de Dados)**  
-Repositório com exercícios práticos de SQL organizados por nível de complexidade, seguindo um plano de estudos focado na preparação para a primeira vaga em dados.  
-Aborda consultas básicas, agregações, joins, lógica de negócio e SQL analítico aplicado a cenários reais.  
-👉 https://github.com/luizbatist/sql_exercises
+📊 Business Intelligence – Adventure Works Internet Sales
+Projeto de BI com foco na integração entre SQL Server e Excel, criando uma view única para análise de vendas da base Adventure Works.
+Inclui modelagem dimensional, consolidação de dados e geração de indicadores de negócio com insights claros.
+👉 https://github.com/luizbatist/adventure-works-internet-sales-bi](https://github.com/luizbatist/sql-server-excel-sales-dashboard
 
 ---
 
