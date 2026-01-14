@@ -32,11 +32,13 @@ No momento, estou aprofundando **modelagem de dados** e fundamentos de **Analyti
 🔎 **Análise de Inadimplência (EDA)**  
 Análise exploratória de dados de clientes com foco em identificar padrões associados ao risco de inadimplência.  
 Envolve limpeza de dados, criação de métricas, visualizações e interpretação dos resultados.  
+
 👉 https://github.com/luizbatist/eda_inadimplencia
 
 📊 Business Intelligence – Adventure Works Internet Sales
 Projeto de BI com foco na integração entre SQL Server e Excel, criando uma view única para análise de vendas da base Adventure Works.
 Inclui modelagem dimensional, consolidação de dados e geração de indicadores de negócio com insights claros.
+
 👉 https://github.com/luizbatist/sql-server-excel-sales-dashboard
 
 ---
