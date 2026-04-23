@@ -23,6 +23,7 @@ No momento, estou aprofundando **Limpeza de Dados** e fundamentos de **Ciencia d
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ---
