@@ -13,7 +13,7 @@
 ## Sobre mim
 Curso **Bacharelado em Ciência de Dados (UNIVESP)** e estou finalizando a formação profissional de **Data Science (DNC – 280h)**.  
 Tenho foco em **análise de dados** com **SQL e Python** (limpeza, exploração e EDA) e **Power BI** para visualização e dashboards.  
-No momento, estou aprofundando **modelagem de dados** e fundamentos de **Analytics Engineering**.
+No momento, estou aprofundando **Limpeza de Dados** e fundamentos de **Ciencia de Dados**.
 
 ---
 
