@@ -29,6 +29,11 @@ No momento, estou aprofundando **Limpeza de Dados** e fundamentos de **Ciencia d
 ---
 
 ## Projetos em destaque
+📈 Business Intelligence – Adventure Works (SQL Server + Power BI)
+Projeto de BI com foco em SQL Server e Power BI, utilizando views otimizadas no banco para consumo analítico.
+Inclui modelagem de dados, criação de medidas (DAX), dashboards interativos e análise de desempenho de vendas com foco em tomada de decisão.
+
+👉 https://github.com/luizbatist/sql-server-powerbi-sales-dashboard
 
 🔎 Análise de Inadimplência (EDA)
 Análise exploratória de dados de clientes com foco na identificação de padrões associados ao risco de inadimplência.
@@ -41,12 +46,6 @@ Projeto de BI focado na integração entre SQL Server e Excel, com criação de 
 Inclui modelagem dimensional, consolidação de dados e geração de indicadores de negócio com insights claros.
 
 👉 https://github.com/luizbatist/sql-server-excel-sales-dashboard
-
-📈 Business Intelligence – Adventure Works (SQL Server + Power BI)
-Projeto de BI com foco em SQL Server e Power BI, utilizando views otimizadas no banco para consumo analítico.
-Inclui modelagem de dados, criação de medidas (DAX), dashboards interativos e análise de desempenho de vendas com foco em tomada de decisão.
-
-👉 https://github.com/luizbatist/sql-server-powerbi-sales-dashboard
 
 ---
 
